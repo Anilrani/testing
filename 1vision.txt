@@ -1,0 +1,2 @@
+control all commands
+release all the data
